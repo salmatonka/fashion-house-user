@@ -15,8 +15,10 @@ This is a vite.js project.
 There are 3 types of Authentications added:
 
 # Register.
-Sign in with Email and password.
-Sign in with Google.
+1. Sign in with Email and password.
+2. Sign in with Google.
+
+
 ## Technologies Used: 
  1. React Js
  2. Node Js
