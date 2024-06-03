@@ -36,6 +36,16 @@ There are 3 types of Authentications added:
  5. react-router-dom
  6. swiper
  7. react-type-animation
+ 8. @tanstack/react-query
+
+  
+## About:
+SR Fashion House is a site for product sellers. You can purchase the best products here. Many people are buying these products, and you can see reviews from other customers. These products are highly loved.
+When a user registers as a seller and creates an account, they can see a 'Dashboard', 'Profile', and 'Product' section. A buyer can order, edit, and delete a product.
+
+
+
+
 
 
 
