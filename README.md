@@ -2,12 +2,12 @@
 This is a vite.js project.
 
 # Getting Started
-# Create Vite:
+# installed:
 1. npm create vite@latest fashion-house-cliend -- --template react
 2. cd my-project
 3. npm install -D tailwindcss postcss autoprefixer
 4. npx tailwindcss init -p
-5. 
+5. npm i -D daisyui@latest
    
 # Run your build process with npm run dev
 
