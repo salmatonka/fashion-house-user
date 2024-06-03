@@ -1,7 +1,7 @@
-## SR Fashion House
+# SR Fashion House
 This is a vite.js project.
 
-# Getting Started
+## Getting Started
 # installed:
 1. npm create vite@latest fashion-house-cliend -- --template react
 2. cd my-project
@@ -9,12 +9,12 @@ This is a vite.js project.
 4. npx tailwindcss init -p
 5. npm i -D daisyui@latest
    
-# Run your build process with npm run dev
+## Run your build process with npm run dev
 
-## Authentications:
+# Authentications:
 There are 3 types of Authentications added:
 
-# Register.
+## Register.
 1. Sign in with Email and password.
 2. Sign in with Google.
 
