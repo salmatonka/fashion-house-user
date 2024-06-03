@@ -1,0 +1,38 @@
+
+.bannerimg{
+  filter: brightness(60%);
+}
+
+/* home section */
+ 
+.hero{
+    display: flex;
+    justify-content: space-evenly;
+    background: #171615;
+    padding-top: 5vh; 
+   }
+   .hero .he-text{
+      margin-top: 10vh;
+   }
+ #hero h4{
+   padding-bottom: 15px;
+ }
+ #hero h1,h2,h4,p{
+    color: #E0C264;
+ }
+ #hero button{
+   border-radius: 0px;
+   
+   padding: 14px 40px 14px 40px; 
+   font-weight: 500;
+   font-size: 20px;
+    border: 1px solid #876a30;
+    background: #171615;
+    color: #E0C264;
+    
+ }
+ #hero button:hover{
+   background: linear-gradient(#e5c667 0%,#876a30 100%);
+   color: #171615;
+   
+ }
